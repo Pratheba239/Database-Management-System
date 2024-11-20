@@ -1,0 +1,4 @@
+READ ME
+Electricity Billing System is a desktop based application developed in Java programming language. The project aims at serving the department of electricity by computerizing the billing system. It mainly focuses on the calculation of Units consumed during the specified time and the money to be paid to electricity offices. 
+
+The interface has 2 logins for admin and the user . The applications does not limit the users to local civilians and has the industrialists in mind and can generate the electricity bills to the industries accompanied with tax inclusion, making this a choice of wider scope. 
